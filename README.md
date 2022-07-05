@@ -14,3 +14,5 @@ To build, simply:
 1. Runs `npm install` to install dependencies.
 2. Runs `npm test` to run Mocha and execute the unit tests.
 
+[![Build Status](https://dev.azure.com/charufande8/AZ400-Test/_apis/build/status/turtle-yogi.calculator?branchName=master)](https://dev.azure.com/charufande8/AZ400-Test/_build/latest?definitionId=4&branchName=master)
+
